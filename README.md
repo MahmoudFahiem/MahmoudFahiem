@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m currently learning MEARN Stack
+I’m currently learning MEARN Stack @ ITI
